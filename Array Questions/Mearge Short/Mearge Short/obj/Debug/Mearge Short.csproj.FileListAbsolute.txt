@@ -1,0 +1,7 @@
+D:\Github\75-Days-Coding-Challenges\Array Questions\Mearge Short\Mearge Short\bin\Debug\Mearge Short.exe.config
+D:\Github\75-Days-Coding-Challenges\Array Questions\Mearge Short\Mearge Short\bin\Debug\Mearge Short.exe
+D:\Github\75-Days-Coding-Challenges\Array Questions\Mearge Short\Mearge Short\bin\Debug\Mearge Short.pdb
+D:\Github\75-Days-Coding-Challenges\Array Questions\Mearge Short\Mearge Short\obj\Debug\Mearge Short.csproj.AssemblyReference.cache
+D:\Github\75-Days-Coding-Challenges\Array Questions\Mearge Short\Mearge Short\obj\Debug\Mearge Short.csproj.CoreCompileInputs.cache
+D:\Github\75-Days-Coding-Challenges\Array Questions\Mearge Short\Mearge Short\obj\Debug\Mearge Short.exe
+D:\Github\75-Days-Coding-Challenges\Array Questions\Mearge Short\Mearge Short\obj\Debug\Mearge Short.pdb
