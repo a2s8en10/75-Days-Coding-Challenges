@@ -1,0 +1,7 @@
+D:\Github\75-Days-Coding-Challenges\Array Questions\sum of all element\sum of all element\bin\Debug\sum of all element.exe.config
+D:\Github\75-Days-Coding-Challenges\Array Questions\sum of all element\sum of all element\bin\Debug\sum of all element.exe
+D:\Github\75-Days-Coding-Challenges\Array Questions\sum of all element\sum of all element\bin\Debug\sum of all element.pdb
+D:\Github\75-Days-Coding-Challenges\Array Questions\sum of all element\sum of all element\obj\Debug\sum of all element.csproj.AssemblyReference.cache
+D:\Github\75-Days-Coding-Challenges\Array Questions\sum of all element\sum of all element\obj\Debug\sum of all element.csproj.CoreCompileInputs.cache
+D:\Github\75-Days-Coding-Challenges\Array Questions\sum of all element\sum of all element\obj\Debug\sum of all element.exe
+D:\Github\75-Days-Coding-Challenges\Array Questions\sum of all element\sum of all element\obj\Debug\sum of all element.pdb

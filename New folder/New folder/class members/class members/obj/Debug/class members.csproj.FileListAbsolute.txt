@@ -1,0 +1,7 @@
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\class members\class members\bin\Debug\class members.exe.config
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\class members\class members\bin\Debug\class members.exe
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\class members\class members\bin\Debug\class members.pdb
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\class members\class members\obj\Debug\class members.csproj.AssemblyReference.cache
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\class members\class members\obj\Debug\class members.csproj.CoreCompileInputs.cache
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\class members\class members\obj\Debug\class members.exe
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\class members\class members\obj\Debug\class members.pdb

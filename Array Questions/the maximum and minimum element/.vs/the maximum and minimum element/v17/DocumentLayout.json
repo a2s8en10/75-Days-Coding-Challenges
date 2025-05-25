@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\75-Days-Coding-Challenges\\Array Questions\\the maximum and minimum element\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD1F27B-38F4-4D32-B510-21457464F447}|the maximum and minimum element\\the maximum and minimum element.csproj|d:\\github\\75-days-coding-challenges\\array questions\\the maximum and minimum element\\the maximum and minimum element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD1F27B-38F4-4D32-B510-21457464F447}|the maximum and minimum element\\the maximum and minimum element.csproj|solutionrelative:the maximum and minimum element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\75-Days-Coding-Challenges\\Array Questions\\the maximum and minimum element\\the maximum and minimum element\\Program.cs",
+              "RelativeDocumentMoniker": "the maximum and minimum element\\Program.cs",
+              "ToolTip": "D:\\Github\\75-Days-Coding-Challenges\\Array Questions\\the maximum and minimum element\\the maximum and minimum element\\Program.cs",
+              "RelativeToolTip": "the maximum and minimum element\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:53:42.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

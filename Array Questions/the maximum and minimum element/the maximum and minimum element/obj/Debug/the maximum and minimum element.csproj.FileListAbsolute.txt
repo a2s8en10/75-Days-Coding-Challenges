@@ -1,0 +1,7 @@
+D:\Github\75-Days-Coding-Challenges\Array Questions\the maximum and minimum element\the maximum and minimum element\bin\Debug\the maximum and minimum element.exe.config
+D:\Github\75-Days-Coding-Challenges\Array Questions\the maximum and minimum element\the maximum and minimum element\bin\Debug\the maximum and minimum element.exe
+D:\Github\75-Days-Coding-Challenges\Array Questions\the maximum and minimum element\the maximum and minimum element\bin\Debug\the maximum and minimum element.pdb
+D:\Github\75-Days-Coding-Challenges\Array Questions\the maximum and minimum element\the maximum and minimum element\obj\Debug\the maximum and minimum element.csproj.AssemblyReference.cache
+D:\Github\75-Days-Coding-Challenges\Array Questions\the maximum and minimum element\the maximum and minimum element\obj\Debug\the maximum and minimum element.csproj.CoreCompileInputs.cache
+D:\Github\75-Days-Coding-Challenges\Array Questions\the maximum and minimum element\the maximum and minimum element\obj\Debug\the maximum and minimum element.exe
+D:\Github\75-Days-Coding-Challenges\Array Questions\the maximum and minimum element\the maximum and minimum element\obj\Debug\the maximum and minimum element.pdb
