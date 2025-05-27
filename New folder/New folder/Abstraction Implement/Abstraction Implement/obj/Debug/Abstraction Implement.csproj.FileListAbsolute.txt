@@ -1,0 +1,2 @@
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\Abstraction Implement\Abstraction Implement\obj\Debug\Abstraction Implement.csproj.AssemblyReference.cache
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\Abstraction Implement\Abstraction Implement\obj\Debug\Abstraction Implement.csproj.CoreCompileInputs.cache
