@@ -1,0 +1,7 @@
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\Polymorphism implement\Polymorphism implement\bin\Debug\Polymorphism implement.exe.config
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\Polymorphism implement\Polymorphism implement\bin\Debug\Polymorphism implement.exe
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\Polymorphism implement\Polymorphism implement\bin\Debug\Polymorphism implement.pdb
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\Polymorphism implement\Polymorphism implement\obj\Debug\Polymorphism implement.csproj.AssemblyReference.cache
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\Polymorphism implement\Polymorphism implement\obj\Debug\Polymorphism implement.csproj.CoreCompileInputs.cache
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\Polymorphism implement\Polymorphism implement\obj\Debug\Polymorphism implement.exe
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\Polymorphism implement\Polymorphism implement\obj\Debug\Polymorphism implement.pdb
