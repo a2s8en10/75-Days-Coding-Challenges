@@ -6,30 +6,29 @@ using System.Threading.Tasks;
 
 namespace Abstraction_Implement
 {
-    abstract class Person
-    {
-        public abstract void Detail();
-        public void Show()
-        {
-            Console.WriteLine("Show Detail....");
-        }
-    }
-    class Student : Person
-    {
-        public override void Detail()
-        {
-            Console.WriteLine("Student is here..");
-        }
-
-    }
     class Program
     {
+        abstract class Animal
+        {
+            public abstract void MakeSound();
+            public void eating()
+            {
+                Console.WriteLine("Eating the food...");
+            }
+        }
+        class Dog : Animal
+        {
+            public override void MakeSound()
+            {
+                Console.WriteLine("Woof Woof!..");
+            }
+        }
+
         static void Main(string[] args)
         {
-            Person student = new Student();
-            student.Detail();
-            student.Show();
-
+            Animal myDog = new Dog();
+            myDog.eating();
+            myDog.MakeSound();
             Console.ReadLine();
         }
     }

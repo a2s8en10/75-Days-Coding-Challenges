@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D6881BE5-6C69-4204-A23C-5916B5D42D91}</ProjectGuid>
+    <ProjectGuid>{CE1B8EEB-226F-4732-824C-1624B1075138}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>implement_implement</RootNamespace>
-    <AssemblyName>implement implement</AssemblyName>
+    <RootNamespace>Encapsilation_Implement</RootNamespace>
+    <AssemblyName>Encapsilation Implement</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

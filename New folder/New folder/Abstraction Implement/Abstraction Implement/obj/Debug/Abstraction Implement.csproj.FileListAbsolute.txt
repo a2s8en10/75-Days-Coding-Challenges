@@ -1,2 +1,7 @@
 D:\Github\75-Days-Coding-Challenges\New folder\New folder\Abstraction Implement\Abstraction Implement\obj\Debug\Abstraction Implement.csproj.AssemblyReference.cache
 D:\Github\75-Days-Coding-Challenges\New folder\New folder\Abstraction Implement\Abstraction Implement\obj\Debug\Abstraction Implement.csproj.CoreCompileInputs.cache
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\Abstraction Implement\Abstraction Implement\bin\Debug\Abstraction Implement.exe.config
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\Abstraction Implement\Abstraction Implement\bin\Debug\Abstraction Implement.exe
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\Abstraction Implement\Abstraction Implement\bin\Debug\Abstraction Implement.pdb
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\Abstraction Implement\Abstraction Implement\obj\Debug\Abstraction Implement.exe
+D:\Github\75-Days-Coding-Challenges\New folder\New folder\Abstraction Implement\Abstraction Implement\obj\Debug\Abstraction Implement.pdb

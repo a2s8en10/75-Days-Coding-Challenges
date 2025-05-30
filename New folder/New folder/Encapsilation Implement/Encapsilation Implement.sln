@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "implement implement", "implement implement\implement implement.csproj", "{D6881BE5-6C69-4204-A23C-5916B5D42D91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsilation Implement", "Encapsilation Implement\Encapsilation Implement.csproj", "{CE1B8EEB-226F-4732-824C-1624B1075138}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D6881BE5-6C69-4204-A23C-5916B5D42D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D6881BE5-6C69-4204-A23C-5916B5D42D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D6881BE5-6C69-4204-A23C-5916B5D42D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D6881BE5-6C69-4204-A23C-5916B5D42D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1B8EEB-226F-4732-824C-1624B1075138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1B8EEB-226F-4732-824C-1624B1075138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1B8EEB-226F-4732-824C-1624B1075138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1B8EEB-226F-4732-824C-1624B1075138}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {64AF289D-7C44-41BC-B00A-837EAA4D0512}
+		SolutionGuid = {128EFA04-F449-4A7E-BD95-8EA054BF59E6}
 	EndGlobalSection
 EndGlobal
