@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the second largest and second smallest elements", "the second largest and second smallest elements\the second largest and second smallest elements.csproj", "{92564A56-CB76-420F-83AE-D599B83F6CD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92564A56-CB76-420F-83AE-D599B83F6CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92564A56-CB76-420F-83AE-D599B83F6CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92564A56-CB76-420F-83AE-D599B83F6CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92564A56-CB76-420F-83AE-D599B83F6CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C30E8BC0-68E0-40B5-9846-AD012033F77F}
+	EndGlobalSection
+EndGlobal

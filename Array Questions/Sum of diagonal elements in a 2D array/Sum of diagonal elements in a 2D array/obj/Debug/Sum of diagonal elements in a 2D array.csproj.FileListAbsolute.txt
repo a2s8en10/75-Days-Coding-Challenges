@@ -1,0 +1,7 @@
+D:\Github\75-Days-Coding-Challenges\Array Questions\Sum of diagonal elements in a 2D array\Sum of diagonal elements in a 2D array\bin\Debug\Sum of diagonal elements in a 2D array.exe.config
+D:\Github\75-Days-Coding-Challenges\Array Questions\Sum of diagonal elements in a 2D array\Sum of diagonal elements in a 2D array\bin\Debug\Sum of diagonal elements in a 2D array.exe
+D:\Github\75-Days-Coding-Challenges\Array Questions\Sum of diagonal elements in a 2D array\Sum of diagonal elements in a 2D array\bin\Debug\Sum of diagonal elements in a 2D array.pdb
+D:\Github\75-Days-Coding-Challenges\Array Questions\Sum of diagonal elements in a 2D array\Sum of diagonal elements in a 2D array\obj\Debug\Sum of diagonal elements in a 2D array.csproj.AssemblyReference.cache
+D:\Github\75-Days-Coding-Challenges\Array Questions\Sum of diagonal elements in a 2D array\Sum of diagonal elements in a 2D array\obj\Debug\Sum of diagonal elements in a 2D array.csproj.CoreCompileInputs.cache
+D:\Github\75-Days-Coding-Challenges\Array Questions\Sum of diagonal elements in a 2D array\Sum of diagonal elements in a 2D array\obj\Debug\Sum of diagonal elements in a 2D array.exe
+D:\Github\75-Days-Coding-Challenges\Array Questions\Sum of diagonal elements in a 2D array\Sum of diagonal elements in a 2D array\obj\Debug\Sum of diagonal elements in a 2D array.pdb

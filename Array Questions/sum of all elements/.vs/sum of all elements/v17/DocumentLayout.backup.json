@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\75-Days-Coding-Challenges\\Array Questions\\sum of all elements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE369FD0-3626-46CA-9613-3DA21AF19544}|sum of all elements\\sum of all elements.csproj|d:\\github\\75-days-coding-challenges\\array questions\\sum of all elements\\sum of all elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE369FD0-3626-46CA-9613-3DA21AF19544}|sum of all elements\\sum of all elements.csproj|solutionrelative:sum of all elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\75-Days-Coding-Challenges\\Array Questions\\sum of all elements\\sum of all elements\\Program.cs",
+              "RelativeDocumentMoniker": "sum of all elements\\Program.cs",
+              "ToolTip": "D:\\Github\\75-Days-Coding-Challenges\\Array Questions\\sum of all elements\\sum of all elements\\Program.cs*",
+              "RelativeToolTip": "sum of all elements\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:00:38.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

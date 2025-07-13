@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\75-Days-Coding-Challenges\\Array Questions\\Implement binary search on a sorted array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6979E1A2-00CC-4E3B-B700-F3044EF70822}|Implement binary search on a sorted array\\Implement binary search on a sorted array.csproj|d:\\github\\75-days-coding-challenges\\array questions\\implement binary search on a sorted array\\implement binary search on a sorted array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979E1A2-00CC-4E3B-B700-F3044EF70822}|Implement binary search on a sorted array\\Implement binary search on a sorted array.csproj|solutionrelative:implement binary search on a sorted array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\75-Days-Coding-Challenges\\Array Questions\\Implement binary search on a sorted array\\Implement binary search on a sorted array\\Program.cs",
+              "RelativeDocumentMoniker": "Implement binary search on a sorted array\\Program.cs",
+              "ToolTip": "D:\\Github\\75-Days-Coding-Challenges\\Array Questions\\Implement binary search on a sorted array\\Implement binary search on a sorted array\\Program.cs",
+              "RelativeToolTip": "Implement binary search on a sorted array\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:36:32.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

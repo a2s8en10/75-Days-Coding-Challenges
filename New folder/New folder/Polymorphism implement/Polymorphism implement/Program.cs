@@ -17,6 +17,18 @@ namespace Polymorphism_implement
             return a + b;
         }
     }
+    // two method are same return/parameter type show the error 
+    //public class demo
+    //{
+    //    public int Anu(int a)
+    //    {
+    //        return a;
+    //    }
+    //    public double Anu(int a)
+    //    {
+    //        return a;
+    //    }
+    //}
     class Program
     {   
         static void Main(string[] args)

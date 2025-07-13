@@ -1,0 +1,7 @@
+D:\Github\75-Days-Coding-Challenges\Array Questions\Transpose a matrix\Transpose a matrix\bin\Debug\Transpose a matrix.exe.config
+D:\Github\75-Days-Coding-Challenges\Array Questions\Transpose a matrix\Transpose a matrix\bin\Debug\Transpose a matrix.exe
+D:\Github\75-Days-Coding-Challenges\Array Questions\Transpose a matrix\Transpose a matrix\bin\Debug\Transpose a matrix.pdb
+D:\Github\75-Days-Coding-Challenges\Array Questions\Transpose a matrix\Transpose a matrix\obj\Debug\Transpose a matrix.csproj.AssemblyReference.cache
+D:\Github\75-Days-Coding-Challenges\Array Questions\Transpose a matrix\Transpose a matrix\obj\Debug\Transpose a matrix.csproj.CoreCompileInputs.cache
+D:\Github\75-Days-Coding-Challenges\Array Questions\Transpose a matrix\Transpose a matrix\obj\Debug\Transpose a matrix.exe
+D:\Github\75-Days-Coding-Challenges\Array Questions\Transpose a matrix\Transpose a matrix\obj\Debug\Transpose a matrix.pdb

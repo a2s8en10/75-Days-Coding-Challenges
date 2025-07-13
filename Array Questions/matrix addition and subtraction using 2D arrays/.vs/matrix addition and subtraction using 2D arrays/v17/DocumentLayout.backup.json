@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\75-Days-Coding-Challenges\\Array Questions\\matrix addition and subtraction using 2D arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3B196B-4CD3-492A-ADA9-A372DA382C7B}|matrix addition and subtraction using 2D arrays\\matrix addition and subtraction using 2D arrays.csproj|d:\\github\\75-days-coding-challenges\\array questions\\matrix addition and subtraction using 2d arrays\\matrix addition and subtraction using 2d arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3B196B-4CD3-492A-ADA9-A372DA382C7B}|matrix addition and subtraction using 2D arrays\\matrix addition and subtraction using 2D arrays.csproj|solutionrelative:matrix addition and subtraction using 2d arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\75-Days-Coding-Challenges\\Array Questions\\matrix addition and subtraction using 2D arrays\\matrix addition and subtraction using 2D arrays\\Program.cs",
+              "RelativeDocumentMoniker": "matrix addition and subtraction using 2D arrays\\Program.cs",
+              "ToolTip": "D:\\Github\\75-Days-Coding-Challenges\\Array Questions\\matrix addition and subtraction using 2D arrays\\matrix addition and subtraction using 2D arrays\\Program.cs",
+              "RelativeToolTip": "matrix addition and subtraction using 2D arrays\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:24:07.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

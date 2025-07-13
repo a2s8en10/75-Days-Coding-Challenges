@@ -1,0 +1,7 @@
+D:\Github\75-Days-Coding-Challenges\Array Questions\Count even and odd numbers in an array\Count even and odd numbers in an array\bin\Debug\Count even and odd numbers in an array.exe.config
+D:\Github\75-Days-Coding-Challenges\Array Questions\Count even and odd numbers in an array\Count even and odd numbers in an array\bin\Debug\Count even and odd numbers in an array.exe
+D:\Github\75-Days-Coding-Challenges\Array Questions\Count even and odd numbers in an array\Count even and odd numbers in an array\bin\Debug\Count even and odd numbers in an array.pdb
+D:\Github\75-Days-Coding-Challenges\Array Questions\Count even and odd numbers in an array\Count even and odd numbers in an array\obj\Debug\Count even and odd numbers in an array.csproj.AssemblyReference.cache
+D:\Github\75-Days-Coding-Challenges\Array Questions\Count even and odd numbers in an array\Count even and odd numbers in an array\obj\Debug\Count even and odd numbers in an array.csproj.CoreCompileInputs.cache
+D:\Github\75-Days-Coding-Challenges\Array Questions\Count even and odd numbers in an array\Count even and odd numbers in an array\obj\Debug\Count even and odd numbers in an array.exe
+D:\Github\75-Days-Coding-Challenges\Array Questions\Count even and odd numbers in an array\Count even and odd numbers in an array\obj\Debug\Count even and odd numbers in an array.pdb

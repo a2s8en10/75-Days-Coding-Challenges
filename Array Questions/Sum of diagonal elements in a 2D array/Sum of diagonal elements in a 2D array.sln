@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of diagonal elements in a 2D array", "Sum of diagonal elements in a 2D array\Sum of diagonal elements in a 2D array.csproj", "{78B9DDC5-E838-48D8-A9A0-08D757529919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B9DDC5-E838-48D8-A9A0-08D757529919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B9DDC5-E838-48D8-A9A0-08D757529919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B9DDC5-E838-48D8-A9A0-08D757529919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B9DDC5-E838-48D8-A9A0-08D757529919}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66655FEB-F5A2-43D1-A992-D3C8ACEC7FAD}
+	EndGlobalSection
+EndGlobal

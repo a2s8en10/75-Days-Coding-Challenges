@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\75-Days-Coding-Challenges\\Array Questions\\Find all pairs in an array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF5A8A6-749B-4956-A951-5143E4DC2135}|Find all pairs in an array\\Find all pairs in an array.csproj|d:\\github\\75-days-coding-challenges\\array questions\\find all pairs in an array\\find all pairs in an array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF5A8A6-749B-4956-A951-5143E4DC2135}|Find all pairs in an array\\Find all pairs in an array.csproj|solutionrelative:find all pairs in an array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\75-Days-Coding-Challenges\\Array Questions\\Find all pairs in an array\\Find all pairs in an array\\Program.cs",
+              "RelativeDocumentMoniker": "Find all pairs in an array\\Program.cs",
+              "ToolTip": "D:\\Github\\75-Days-Coding-Challenges\\Array Questions\\Find all pairs in an array\\Find all pairs in an array\\Program.cs",
+              "RelativeToolTip": "Find all pairs in an array\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:15:27.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
