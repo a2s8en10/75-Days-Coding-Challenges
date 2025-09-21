@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\75-Days-Coding-Challenges\\Array Questions\\duplicate number in an array Floyd\u0027s Cycle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1B6E12-C887-4496-A9E2-4E51D42BB750}|duplicate number in an array Floyd\u0027s Cycle\\duplicate number in an array Floyd\u0027s Cycle.csproj|e:\\github\\75-days-coding-challenges\\array questions\\duplicate number in an array floyd\u0027s cycle\\duplicate number in an array floyd\u0027s cycle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1B6E12-C887-4496-A9E2-4E51D42BB750}|duplicate number in an array Floyd\u0027s Cycle\\duplicate number in an array Floyd\u0027s Cycle.csproj|solutionrelative:duplicate number in an array floyd\u0027s cycle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\75-Days-Coding-Challenges\\Array Questions\\duplicate number in an array Floyd\u0027s Cycle\\duplicate number in an array Floyd\u0027s Cycle\\Program.cs",
+              "RelativeDocumentMoniker": "duplicate number in an array Floyd\u0027s Cycle\\Program.cs",
+              "ToolTip": "E:\\Github\\75-Days-Coding-Challenges\\Array Questions\\duplicate number in an array Floyd\u0027s Cycle\\duplicate number in an array Floyd\u0027s Cycle\\Program.cs",
+              "RelativeToolTip": "duplicate number in an array Floyd\u0027s Cycle\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:57:04.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

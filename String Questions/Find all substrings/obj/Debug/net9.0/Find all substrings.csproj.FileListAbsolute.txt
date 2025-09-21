@@ -1,0 +1,15 @@
+e:\Github\75-Days-Coding-Challenges\String Questions\Find all substrings\bin\Debug\net9.0\Find all substrings.exe
+e:\Github\75-Days-Coding-Challenges\String Questions\Find all substrings\bin\Debug\net9.0\Find all substrings.deps.json
+e:\Github\75-Days-Coding-Challenges\String Questions\Find all substrings\bin\Debug\net9.0\Find all substrings.runtimeconfig.json
+e:\Github\75-Days-Coding-Challenges\String Questions\Find all substrings\bin\Debug\net9.0\Find all substrings.dll
+e:\Github\75-Days-Coding-Challenges\String Questions\Find all substrings\bin\Debug\net9.0\Find all substrings.pdb
+e:\Github\75-Days-Coding-Challenges\String Questions\Find all substrings\obj\Debug\net9.0\Find all substrings.GeneratedMSBuildEditorConfig.editorconfig
+e:\Github\75-Days-Coding-Challenges\String Questions\Find all substrings\obj\Debug\net9.0\Find all substrings.AssemblyInfoInputs.cache
+e:\Github\75-Days-Coding-Challenges\String Questions\Find all substrings\obj\Debug\net9.0\Find all substrings.AssemblyInfo.cs
+e:\Github\75-Days-Coding-Challenges\String Questions\Find all substrings\obj\Debug\net9.0\Find all substrings.csproj.CoreCompileInputs.cache
+e:\Github\75-Days-Coding-Challenges\String Questions\Find all substrings\obj\Debug\net9.0\Find all substrings.sourcelink.json
+e:\Github\75-Days-Coding-Challenges\String Questions\Find all substrings\obj\Debug\net9.0\Find all substrings.dll
+e:\Github\75-Days-Coding-Challenges\String Questions\Find all substrings\obj\Debug\net9.0\refint\Find all substrings.dll
+e:\Github\75-Days-Coding-Challenges\String Questions\Find all substrings\obj\Debug\net9.0\Find all substrings.pdb
+e:\Github\75-Days-Coding-Challenges\String Questions\Find all substrings\obj\Debug\net9.0\Find all substrings.genruntimeconfig.cache
+e:\Github\75-Days-Coding-Challenges\String Questions\Find all substrings\obj\Debug\net9.0\ref\Find all substrings.dll

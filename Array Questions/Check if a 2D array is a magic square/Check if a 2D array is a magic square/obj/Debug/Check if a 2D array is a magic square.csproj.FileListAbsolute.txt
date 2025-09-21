@@ -1,0 +1,7 @@
+E:\Github\75-Days-Coding-Challenges\Array Questions\Check if a 2D array is a magic square\Check if a 2D array is a magic square\bin\Debug\Check if a 2D array is a magic square.exe.config
+E:\Github\75-Days-Coding-Challenges\Array Questions\Check if a 2D array is a magic square\Check if a 2D array is a magic square\bin\Debug\Check if a 2D array is a magic square.exe
+E:\Github\75-Days-Coding-Challenges\Array Questions\Check if a 2D array is a magic square\Check if a 2D array is a magic square\bin\Debug\Check if a 2D array is a magic square.pdb
+E:\Github\75-Days-Coding-Challenges\Array Questions\Check if a 2D array is a magic square\Check if a 2D array is a magic square\obj\Debug\Check if a 2D array is a magic square.csproj.AssemblyReference.cache
+E:\Github\75-Days-Coding-Challenges\Array Questions\Check if a 2D array is a magic square\Check if a 2D array is a magic square\obj\Debug\Check if a 2D array is a magic square.csproj.CoreCompileInputs.cache
+E:\Github\75-Days-Coding-Challenges\Array Questions\Check if a 2D array is a magic square\Check if a 2D array is a magic square\obj\Debug\Check if a 2D array is a magic square.exe
+E:\Github\75-Days-Coding-Challenges\Array Questions\Check if a 2D array is a magic square\Check if a 2D array is a magic square\obj\Debug\Check if a 2D array is a magic square.pdb

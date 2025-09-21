@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the majority element in an array", "Find the majority element in an array\Find the majority element in an array.csproj", "{1D366546-461C-4386-839E-8F866610DFDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D366546-461C-4386-839E-8F866610DFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D366546-461C-4386-839E-8F866610DFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D366546-461C-4386-839E-8F866610DFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D366546-461C-4386-839E-8F866610DFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BFD9A4F-D2E7-4727-8F8B-EE994219B924}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Declare and initialize a jagged array", "Declare and initialize a jagged array\Declare and initialize a jagged array.csproj", "{EB62D05B-40A8-4F54-A938-14A77E485B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB62D05B-40A8-4F54-A938-14A77E485B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB62D05B-40A8-4F54-A938-14A77E485B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB62D05B-40A8-4F54-A938-14A77E485B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB62D05B-40A8-4F54-A938-14A77E485B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11A9CF61-9507-4C07-B3CE-0E26AF64EE27}
+	EndGlobalSection
+EndGlobal

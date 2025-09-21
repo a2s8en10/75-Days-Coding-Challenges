@@ -1,9 +1,8 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "average of numbers in the array", "average of numbers in the array\average of numbers in the array.csproj", "{A27D779E-33AD-4567-8FBB-2A83C1E81B7B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "average of numbers in the array", "average of numbers in the array\average of numbers in the array.csproj", "{B9F56830-73D4-696F-7E78-32010A0B9EE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A27D779E-33AD-4567-8FBB-2A83C1E81B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A27D779E-33AD-4567-8FBB-2A83C1E81B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A27D779E-33AD-4567-8FBB-2A83C1E81B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A27D779E-33AD-4567-8FBB-2A83C1E81B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F56830-73D4-696F-7E78-32010A0B9EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F56830-73D4-696F-7E78-32010A0B9EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F56830-73D4-696F-7E78-32010A0B9EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F56830-73D4-696F-7E78-32010A0B9EE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1AF7329E-23D2-43A3-9288-EFAA0C6390FD}
+		SolutionGuid = {BCEC9680-E12B-48DD-94A3-3CE0C0B1BE3D}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\75-Days-Coding-Challenges\\Array Questions\\Declare and initialize a jagged array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB62D05B-40A8-4F54-A938-14A77E485B53}|Declare and initialize a jagged array\\Declare and initialize a jagged array.csproj|e:\\github\\75-days-coding-challenges\\array questions\\declare and initialize a jagged array\\declare and initialize a jagged array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB62D05B-40A8-4F54-A938-14A77E485B53}|Declare and initialize a jagged array\\Declare and initialize a jagged array.csproj|solutionrelative:declare and initialize a jagged array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\75-Days-Coding-Challenges\\Array Questions\\Declare and initialize a jagged array\\Declare and initialize a jagged array\\Program.cs",
+              "RelativeDocumentMoniker": "Declare and initialize a jagged array\\Program.cs",
+              "ToolTip": "E:\\Github\\75-Days-Coding-Challenges\\Array Questions\\Declare and initialize a jagged array\\Declare and initialize a jagged array\\Program.cs",
+              "RelativeToolTip": "Declare and initialize a jagged array\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:45:11.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

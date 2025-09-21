@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "duplicate number in an array Floyd's Cycle", "duplicate number in an array Floyd's Cycle\duplicate number in an array Floyd's Cycle.csproj", "{4F1B6E12-C887-4496-A9E2-4E51D42BB750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F1B6E12-C887-4496-A9E2-4E51D42BB750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1B6E12-C887-4496-A9E2-4E51D42BB750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1B6E12-C887-4496-A9E2-4E51D42BB750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1B6E12-C887-4496-A9E2-4E51D42BB750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DDC02E5-1C13-4183-8BED-79A3AC032590}
+	EndGlobalSection
+EndGlobal

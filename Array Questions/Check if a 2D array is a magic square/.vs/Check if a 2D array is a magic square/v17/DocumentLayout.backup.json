@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\75-Days-Coding-Challenges\\Array Questions\\Check if a 2D array is a magic square\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A6685C-8BC4-4DDE-BEDB-96DE97788112}|Check if a 2D array is a magic square\\Check if a 2D array is a magic square.csproj|e:\\github\\75-days-coding-challenges\\array questions\\check if a 2d array is a magic square\\check if a 2d array is a magic square\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A6685C-8BC4-4DDE-BEDB-96DE97788112}|Check if a 2D array is a magic square\\Check if a 2D array is a magic square.csproj|solutionrelative:check if a 2d array is a magic square\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\75-Days-Coding-Challenges\\Array Questions\\Check if a 2D array is a magic square\\Check if a 2D array is a magic square\\Program.cs",
+              "RelativeDocumentMoniker": "Check if a 2D array is a magic square\\Program.cs",
+              "ToolTip": "E:\\Github\\75-Days-Coding-Challenges\\Array Questions\\Check if a 2D array is a magic square\\Check if a 2D array is a magic square\\Program.cs",
+              "RelativeToolTip": "Check if a 2D array is a magic square\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:38:52.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
