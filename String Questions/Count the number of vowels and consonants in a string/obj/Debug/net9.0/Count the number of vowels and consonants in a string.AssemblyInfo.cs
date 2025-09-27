@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Count the number of vowels and consonants in a string")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2705197bf79bb38a561dc74f49acb7c1ee74776")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5adfea42b4df6ec4a45ccbc71e3f1bf02ab7fa1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Count the number of vowels and consonants in a string")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Count the number of vowels and consonants in a string")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

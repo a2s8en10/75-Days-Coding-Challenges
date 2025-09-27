@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Check if a string is a valid shuffle of two other strings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2705197bf79bb38a561dc74f49acb7c1ee74776")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5adfea42b4df6ec4a45ccbc71e3f1bf02ab7fa1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Check if a string is a valid shuffle of two other strings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Check if a string is a valid shuffle of two other strings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

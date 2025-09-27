@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Find the frequency of each character in a string")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed173fd543b7fe1696a04d2eb0f7f63bee45f7ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5adfea42b4df6ec4a45ccbc71e3f1bf02ab7fa1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Find the frequency of each character in a string")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Find the frequency of each character in a string")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

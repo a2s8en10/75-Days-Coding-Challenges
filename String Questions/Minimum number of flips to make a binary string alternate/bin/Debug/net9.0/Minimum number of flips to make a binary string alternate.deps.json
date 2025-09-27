@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Minimum number of flips to make a binary string alternate/1.0.0": {
+        "runtime": {
+          "Minimum number of flips to make a binary string alternate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Minimum number of flips to make a binary string alternate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\Github\75-Days-Coding-Challenges\String Questions\Minimum number of flips to make a binary string alternate\bin\Debug\net9.0\Minimum number of flips to make a binary string alternate.exe
+E:\Github\75-Days-Coding-Challenges\String Questions\Minimum number of flips to make a binary string alternate\bin\Debug\net9.0\Minimum number of flips to make a binary string alternate.deps.json
+E:\Github\75-Days-Coding-Challenges\String Questions\Minimum number of flips to make a binary string alternate\bin\Debug\net9.0\Minimum number of flips to make a binary string alternate.runtimeconfig.json
+E:\Github\75-Days-Coding-Challenges\String Questions\Minimum number of flips to make a binary string alternate\bin\Debug\net9.0\Minimum number of flips to make a binary string alternate.dll
+E:\Github\75-Days-Coding-Challenges\String Questions\Minimum number of flips to make a binary string alternate\bin\Debug\net9.0\Minimum number of flips to make a binary string alternate.pdb
+E:\Github\75-Days-Coding-Challenges\String Questions\Minimum number of flips to make a binary string alternate\obj\Debug\net9.0\Minimum number of flips to make a binary string alternate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\75-Days-Coding-Challenges\String Questions\Minimum number of flips to make a binary string alternate\obj\Debug\net9.0\Minimum number of flips to make a binary string alternate.AssemblyInfoInputs.cache
+E:\Github\75-Days-Coding-Challenges\String Questions\Minimum number of flips to make a binary string alternate\obj\Debug\net9.0\Minimum number of flips to make a binary string alternate.AssemblyInfo.cs
+E:\Github\75-Days-Coding-Challenges\String Questions\Minimum number of flips to make a binary string alternate\obj\Debug\net9.0\Minimum number of flips to make a binary string alternate.csproj.CoreCompileInputs.cache
+E:\Github\75-Days-Coding-Challenges\String Questions\Minimum number of flips to make a binary string alternate\obj\Debug\net9.0\Minimum number of flips to make a binary string alternate.sourcelink.json
+E:\Github\75-Days-Coding-Challenges\String Questions\Minimum number of flips to make a binary string alternate\obj\Debug\net9.0\Minimum number of flips to make a binary string alternate.dll
+E:\Github\75-Days-Coding-Challenges\String Questions\Minimum number of flips to make a binary string alternate\obj\Debug\net9.0\refint\Minimum number of flips to make a binary string alternate.dll
+E:\Github\75-Days-Coding-Challenges\String Questions\Minimum number of flips to make a binary string alternate\obj\Debug\net9.0\Minimum number of flips to make a binary string alternate.pdb
+E:\Github\75-Days-Coding-Challenges\String Questions\Minimum number of flips to make a binary string alternate\obj\Debug\net9.0\Minimum number of flips to make a binary string alternate.genruntimeconfig.cache
+E:\Github\75-Days-Coding-Challenges\String Questions\Minimum number of flips to make a binary string alternate\obj\Debug\net9.0\ref\Minimum number of flips to make a binary string alternate.dll
