@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Longest Common Prefix among an array of strings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2705197bf79bb38a561dc74f49acb7c1ee74776")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed173fd543b7fe1696a04d2eb0f7f63bee45f7ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("Longest Common Prefix among an array of strings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Longest Common Prefix among an array of strings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
