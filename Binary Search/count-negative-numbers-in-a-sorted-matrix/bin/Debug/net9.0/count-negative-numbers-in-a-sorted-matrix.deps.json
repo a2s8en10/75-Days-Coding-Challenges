@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "count-negative-numbers-in-a-sorted-matrix/1.0.0": {
+        "runtime": {
+          "count-negative-numbers-in-a-sorted-matrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "count-negative-numbers-in-a-sorted-matrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

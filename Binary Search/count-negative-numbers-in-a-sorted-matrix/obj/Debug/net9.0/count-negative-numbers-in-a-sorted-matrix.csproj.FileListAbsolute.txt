@@ -1,0 +1,15 @@
+E:\Github\75-Days-Coding-Challenges\Binary Search\count-negative-numbers-in-a-sorted-matrix\bin\Debug\net9.0\count-negative-numbers-in-a-sorted-matrix.exe
+E:\Github\75-Days-Coding-Challenges\Binary Search\count-negative-numbers-in-a-sorted-matrix\bin\Debug\net9.0\count-negative-numbers-in-a-sorted-matrix.deps.json
+E:\Github\75-Days-Coding-Challenges\Binary Search\count-negative-numbers-in-a-sorted-matrix\bin\Debug\net9.0\count-negative-numbers-in-a-sorted-matrix.runtimeconfig.json
+E:\Github\75-Days-Coding-Challenges\Binary Search\count-negative-numbers-in-a-sorted-matrix\bin\Debug\net9.0\count-negative-numbers-in-a-sorted-matrix.dll
+E:\Github\75-Days-Coding-Challenges\Binary Search\count-negative-numbers-in-a-sorted-matrix\bin\Debug\net9.0\count-negative-numbers-in-a-sorted-matrix.pdb
+E:\Github\75-Days-Coding-Challenges\Binary Search\count-negative-numbers-in-a-sorted-matrix\obj\Debug\net9.0\count-negative-numbers-in-a-sorted-matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\75-Days-Coding-Challenges\Binary Search\count-negative-numbers-in-a-sorted-matrix\obj\Debug\net9.0\count-negative-numbers-in-a-sorted-matrix.AssemblyInfoInputs.cache
+E:\Github\75-Days-Coding-Challenges\Binary Search\count-negative-numbers-in-a-sorted-matrix\obj\Debug\net9.0\count-negative-numbers-in-a-sorted-matrix.AssemblyInfo.cs
+E:\Github\75-Days-Coding-Challenges\Binary Search\count-negative-numbers-in-a-sorted-matrix\obj\Debug\net9.0\count-negative-numbers-in-a-sorted-matrix.csproj.CoreCompileInputs.cache
+E:\Github\75-Days-Coding-Challenges\Binary Search\count-negative-numbers-in-a-sorted-matrix\obj\Debug\net9.0\count-negative-numbers-in-a-sorted-matrix.sourcelink.json
+E:\Github\75-Days-Coding-Challenges\Binary Search\count-negative-numbers-in-a-sorted-matrix\obj\Debug\net9.0\count-negative-numbers-in-a-sorted-matrix.dll
+E:\Github\75-Days-Coding-Challenges\Binary Search\count-negative-numbers-in-a-sorted-matrix\obj\Debug\net9.0\refint\count-negative-numbers-in-a-sorted-matrix.dll
+E:\Github\75-Days-Coding-Challenges\Binary Search\count-negative-numbers-in-a-sorted-matrix\obj\Debug\net9.0\count-negative-numbers-in-a-sorted-matrix.pdb
+E:\Github\75-Days-Coding-Challenges\Binary Search\count-negative-numbers-in-a-sorted-matrix\obj\Debug\net9.0\count-negative-numbers-in-a-sorted-matrix.genruntimeconfig.cache
+E:\Github\75-Days-Coding-Challenges\Binary Search\count-negative-numbers-in-a-sorted-matrix\obj\Debug\net9.0\ref\count-negative-numbers-in-a-sorted-matrix.dll
